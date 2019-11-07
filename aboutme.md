@@ -19,4 +19,10 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 ## Image
 ### 
 !(Not a Penguin Image)[https://images.pexels.com/photos/556416/pexels-photo-556416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260]
+
 (here's the link)[https://images.pexels.com/photos/556416/pexels-photo-556416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260]
+
+Bulleted list:
+- item 1'
+- item 2
+- item 3
